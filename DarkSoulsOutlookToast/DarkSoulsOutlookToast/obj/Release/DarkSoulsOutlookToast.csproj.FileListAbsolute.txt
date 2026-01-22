@@ -1,0 +1,17 @@
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\obj\Release\DarkSoulsOutlookToast.csproj.AssemblyReference.cache
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\obj\Release\DarkSoulsOutlookToast.Properties.Resources.resources
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\obj\Release\DarkSoulsOutlookToast.csproj.GenerateResource.cache
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\obj\Release\DarkSoulsOutlookToast.csproj.CoreCompileInputs.cache
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\bin\Release\Assets\sound1.wav
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\bin\Release\Assets\sound2.wav
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\bin\Release\DarkSoulsOutlookToast.dll.config
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\bin\Release\DarkSoulsOutlookToast.dll
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\bin\Release\DarkSoulsOutlookToast.pdb
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\bin\Release\DarkSoulsOutlookToast.dll.manifest
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\bin\Release\DarkSoulsOutlookToast.vsto
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\obj\Release\DarkSoul.18678056.Up2Date
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\obj\Release\DarkSoulsOutlookToast.dll
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\obj\Release\DarkSoulsOutlookToast.pdb
+D:\Звуки почты\Новая папка\DarkSoulsOutlookToast\DarkSoulsOutlookToast\obj\Release\DarkSoulsOutlookToast.dll.config
