@@ -6,6 +6,10 @@ VSTO-надстройка для Microsoft Outlook, которая заменя�
 
 ---
 
+<a href="[ССЫЛКА_НА_ТВОЙ_РЕПОЗИТОРИЙ](https://github.com/Smailkiller/DarkSoulsOutlookToast)">
+  <img src="https://img.shields.io/badge/Repo-ИМЯ_РЕПОЗИТОРИЯ?style=for-the-badge&logo=github&logoColor=white&color=FF6A00&labelColor=111111"
+       alt="GitHub Repo">
+</a>
 
 ## Технические детали
 
